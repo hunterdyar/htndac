@@ -17,7 +17,8 @@ function addStyleResource (rule) {
 
 module.exports = {
   siteName: 'Jamdocs',
-  siteUrl: 'https://jamdocs.samuelhorn.com',
+  siteUrl: 'https://hdyar.com',
+  pathPrefix: '/htndac',
   templates: {
     Doc: '/:slug',
   },
